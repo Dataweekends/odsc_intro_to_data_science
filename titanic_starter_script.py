@@ -78,9 +78,20 @@ print confusion_matrix(y_test, y_pred)
 # 
 # Now you have a basic pipeline. How can you improve the score? Try:
 # - adding new features
+#   could you add a feature for family?
+#   could you use the Embark or other as dummies
+#   check the get_dummies function here:
+#   http://pandas.pydata.org/pandas-docs/stable/generated/pandas.get_dummies.html
+#
 # - changing the parameters of the model
+#   check the documentation here:
+#   http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+#   
 # - changing the model itself
+#   check examples here:
+#   http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html
 # 
 # Let's have a small competition....
 # 
 # ### 4) Optional: upload your prediction to Kaggle using the test dataset
+#      https://www.kaggle.com/c/titanic/submissions/attach
