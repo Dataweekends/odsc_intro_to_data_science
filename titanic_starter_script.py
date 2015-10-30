@@ -12,7 +12,7 @@
 
 # How to follow along:
 # 
-#     git clone https://github.com/ghego/odsc_intro_to_data_science
+#     git clone https://github.com/Dataweekends/odsc_intro_to_data_science
 # 
 #     cd odsc_intro_to_data_science
 #     
